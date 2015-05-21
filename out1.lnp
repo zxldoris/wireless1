@@ -1,0 +1,7 @@
+"STARTUP.obj",
+"DS18B20.obj",
+"main.obj",
+"UART.obj",
+"38k.obj" 
+TO "out1" 
+RAMSIZE(256) 
